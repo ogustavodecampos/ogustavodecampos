@@ -9,6 +9,8 @@
   <a href="https://github.com/ogustavodecampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogustavodecampos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavodecampos&layout=compact&langs_count=16&theme=blue-green"/>
+  
+  [blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?ogustavodecampos=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
 </div>
 
 <div style="display: inline_block"><br>
@@ -24,5 +26,3 @@
  <a href = "mailto:o.gustavodecampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ogustavodecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-[blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?ogustavodecampos=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
