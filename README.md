@@ -1,7 +1,7 @@
 ### E aí! Aqui é o Gustavo, bão?!
 
-- 🌱 Estudante de Engenharia de Software - atualmente quarto semestre, e participando de um curso de desenvolvimento full stack de forma extracurricular pela plataforma OneBitCode!
-- 📫 Você pode entrar em contato comigo por e-mail ou LinkedIn, cujos links estão disponíveis logo abaixo.
+- 🌱 Tenho 24 anos, sou estudante de Engenharia de Software e criei este lugarzinho aqui para compartilhar os projetos que venho desenvolvendo ao longo da construção da minha carreira.
+- 📫 Qualquer coisa, sinta-se à vontade para entrar em contato comigo por e-mail ou LinkedIn - tem os links maneirinhos ali embaixo :D 
 
 
 <div>
