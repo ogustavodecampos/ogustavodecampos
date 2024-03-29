@@ -1,7 +1,6 @@
 ### E aí! Aqui é o Gustavo, bão?!
 
-- 🌱 Estudante de Engenharia de Software - atualmente terceiro semestre, e participando de um curso de desenvolvimento full stack de forma extracurricular pela plataforma OneBitCode!
-- 👯 Tenho estado em busca do meu primeiro estágio na área, com um forte interesse em atuar no desenvolvimento front-end.
+- 🌱 Estudante de Engenharia de Software - atualmente quarto semestre, e participando de um curso de desenvolvimento full stack de forma extracurricular pela plataforma OneBitCode!
 - 📫 Você pode entrar em contato comigo por e-mail ou LinkedIn, cujos links estão disponíveis logo abaixo.
 
 
