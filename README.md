@@ -1,6 +1,6 @@
 ###
 Software Engineering Student, expected to graduate in the first semester of 2027.
-So far, building my career, I’ve been a scholarship holder in a Web Development program, worked as a teaching assistant for agile methodologies, and interned as a software developer, focusing on full-stack solutions and database migrations. I have a strong interest in pursuing roles in QA/Testing, Front-End, or Data-related areas. If you have any opportunities, feel free to reach out! :)
+So far, building my career, I’ve been a scholarship holder in a Web Development program, worked as a teaching assistant for agile methodologies, and interned as a software developer, focusing on full-stack solutions and database migrations. I have a strong interest in pursuing roles in QA/Testing and Front-End. If you have any opportunities, feel free to reach out! :)
 
 SKILLS:
 •	Languages: JavaScript, Java e C#.
