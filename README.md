@@ -1,5 +1,7 @@
 ###
-Software Engineering student, with an expected graduation in August 2027. I have experience with both legacy and modern systems. I was a scholarship holder in the "Aceleradora Inclusiva" program, where I learned about Web Development and topics such as agile methodologies, finance, and careers. I also worked as a teaching assistant in "Introduction to Software Engineering," assisting students and conducting research on agile methodologies. As a fullstack developer, I worked on maintaining legacy systems (ASP.NET, C#, JavaScript) and developing modern systems (TypeScript, React). Additionally, I performed database migrations, cleaning and adapting data using tools like Excel, MySQL, and DBeaver.
+Estudante de Engenharia de Software, com previsão de formatura para agosto de 2027. Em minha primeira oportunidade, atuei como Desenvolvedor Fullstack e migrador de bancos de dados, utilizando tecnologias como ASP, C#, JavaScript, TypeScript, React e MySQL. Além disso, fui monitor da disciplina de “Introdução à Engenharia de Software”, onde auxiliei alunos com dúvidas e realizei pesquisas sobre metodologias ágeis e boas práticas da área.
+
+Sou entusiasta do Desenvolvimento Frontend, com foco em React, e estou sempre em busca de aprimorar meus conhecimentos. Se souber de uma oportunidade, ficarei feliz em conversar!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
