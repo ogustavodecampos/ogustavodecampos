@@ -6,7 +6,7 @@ Já atuei como estagiário em desenvolvimento de software, com foco em soluçõe
 
 Atualmente, atuo como QA Engineer Intern, auxiliando na criação de testes automatizados com Cypress, realizando testes manuais para validar funcionalidades da UI, identificando e reportando bugs, acompanhando sua resolução junto ao time e colaborando com os desenvolvedores para garantir entregas de qualidade. Também documento os cenários testados e participo de reuniões para contribuir com a melhoria dos processos de testes.
 
-<b>#EN-US</b><br>
+<b>EN-US</b><br>
 Software Engineering student, expected to graduate in December 2026.
 
 I have previously worked as a Software Development Intern, focusing on full-stack solutions, where I was responsible for maintaining both legacy and modern systems. In the legacy system, I worked with ASP, ASP.NET, C#, and WebForms. In the modern system, my tasks involved technologies such as JavaScript, TypeScript, and React. Additionally, I handled database migrations, receiving backups, cleaning data, and passing them to my supervisor for system integration.
