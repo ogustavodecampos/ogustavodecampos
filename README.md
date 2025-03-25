@@ -1,12 +1,12 @@
 ###
-[PT-BR]
+#PT-BR <br>
 Estudante de Engenharia de Software, com formatura prevista para dezembro de 2026.
 
 Já atuei como estagiário em desenvolvimento de software, com foco em soluções fullstack, sendo responsável pela manutenção de sistemas legados e modernos. No primeiro, realizei atividades utilizando ASP, ASP.NET, C# e WebForms. No segundo, minhas funções eram concentradas em tecnologias como JavaScript, TypeScript e React. Além disso, também fui responsável por migrações de bancos de dados, recebendo backups, higienizando os dados e repassando-os para meu superior realizar a postagem no sistema da empresa.
 
 Atualmente, atuo como QA Engineer Intern, auxiliando na criação de testes automatizados com Cypress, realizando testes manuais para validar funcionalidades da UI, identificando e reportando bugs, acompanhando sua resolução junto ao time e colaborando com os desenvolvedores para garantir entregas de qualidade. Também documento os cenários testados e participo de reuniões para contribuir com a melhoria dos processos de testes.
 
-[EN-US]
+#EN-US <br>
 Software Engineering student, expected to graduate in December 2026.
 
 I have previously worked as a Software Development Intern, focusing on full-stack solutions, where I was responsible for maintaining both legacy and modern systems. In the legacy system, I worked with ASP, ASP.NET, C#, and WebForms. In the modern system, my tasks involved technologies such as JavaScript, TypeScript, and React. Additionally, I handled database migrations, receiving backups, cleaning data, and passing them to my supervisor for system integration.
