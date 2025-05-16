@@ -1,6 +1,6 @@
 ###
 <b>PT-BR</b><br>
-Estudante de Engenharia de Software, com formatura prevista para dezembro de 2026.
+Estudante de Engenharia de Software, com formatura prevista para dezembro de 2027.
 
 Já atuei como estagiário em desenvolvimento de software, com foco em soluções fullstack, sendo responsável pela manutenção de sistemas legados e modernos. No primeiro, realizei atividades utilizando ASP, ASP.NET, C# e WebForms. No segundo, minhas funções eram concentradas em tecnologias como JavaScript, TypeScript e React. Além disso, também fui responsável por migrações de bancos de dados, recebendo backups, higienizando os dados e repassando-os para meu superior realizar a postagem no sistema da empresa.
 
