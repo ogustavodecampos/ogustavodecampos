@@ -14,10 +14,7 @@ estudante de engenharia de software (formatura prevista para dezembro de 2027), 
  <a href="https://www.linkedin.com/in/ogustavodecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 -->
-Oi 👋 aqui é o Gustavo!
-
-Estudante de Engenharia de Software (formatura prevista para dezembro de 2027), entusiasta do Frontend e, atualmente, estagiando na área de testes/QA.
-
+Oi 👋 Aqui é o Gustavo! Estudante de Engenharia de Software, com previsão de formatura para agosto de 2027. No processo de construção de minha carreira, já tive a oportunidade de ser bolsista em desenvolvimento web no programa "Aceleradora Inclusiva", atuar como monitor de metodologias ágeis por um semestre da faculdade, estagiar como desenvolvedor fullstack e migrador de dados por um ano e, atualmente, atuar como estagiário em testes/QA. Além da faculdade, venho me dedicando a cursos extracurriculares para me aprimorar ainda mais nas linguagens e frameworks dos quais sou entusiasta, como Java.
 <div>
  <!--<a href = "mailto:o.gustavodecampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
  <a href="https://www.linkedin.com/in/ogustavodecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
